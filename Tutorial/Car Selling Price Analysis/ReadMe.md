@@ -1,7 +1,9 @@
 Used Car Price Analysis 🚗💰
+
 This project follows the GeeksforGeeks tutorial on Analyzing the Selling Price of Used Cars. It explores how various features (like engine size, body style, and manufacturer) influence the market value of a vehicle using Python's data science stack.
 
 📌 Project Overview
+
 The goal of this analysis is to help a seller (Otis) determine the best price for his car by analyzing historical data. We perform data cleaning, normalization, visualization, and statistical testing to find the most significant price drivers.
 
 🛠️ Tech Stack
