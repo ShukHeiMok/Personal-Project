@@ -1,4 +1,6 @@
 COVID-19 Data Analysis & Visualization
+
+
 📌 Project Context
 This project is a guided technical study based on the GeeksforGeeks "COVID-19 Analysis and Visualization" tutorial. The goal was to master interactive data storytelling using the Plotly ecosystem within a Python environment.
 
