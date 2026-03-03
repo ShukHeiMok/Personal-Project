@@ -1,6 +1,8 @@
 🛒 Retail Customer Segmentation: RFM Analysis
 
+
 🎯 Project Overview
+
 This project focuses on transforming raw transactional data into a strategic marketing tool. Using Python and the RFM (Recency, Frequency, Monetary) model, I analyzed the purchasing behavior of over 4,000 customers to identify high-value segments and at-risk users.
 
 🛠️ Tech Stack & Methodology
